@@ -1,4 +1,4 @@
-![Github_Banner](./a_banner_mechanical.jpg)
+![Github_Banner](./banner.jpg)
 
 - 👋 Hello everyone, I’m Pratyush Chakraborty, a pre-final year undergraduate student pursuing a B.Tech degree in Mechanical Engineering from Visvesvaraya National Institute of Technology.
 - 👀 I’m interested in 3D designing, Computational Fluid Dynamics, Controls in Robotics, Computer Aided Engineering, Computer Vision, and Aerodynamics, and also exploring many other fields that may be interesting.
