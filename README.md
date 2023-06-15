@@ -1,4 +1,5 @@
-![Github Banner]("E:\VNIT\My Documents\a banner mechanical.jpg")
+![Github_Banner](./a banner mecahnical.jpg)
+
 - 👋 Hello everyone, I’m Pratyush Chakraborty, a pre-final year undergraduate student pursuing a B.Tech degree in Mechanical Engineering from Visvesvaraya National Institute of Technology.
 - 👀 I’m interested in 3D designing, Computational Fluid Dynamics, Controls in Robotics, Computer Aided Engineering, Computer Vision, and Aerodynamics, and also exploring many other fields that may be interesting.
 - 🌱 I have some experience using software like Simcentre 3D, Fusion 360, ROS, VsCode, and IntelliJ and currently learning some other software like xflr5 and Ansys Fluent.
