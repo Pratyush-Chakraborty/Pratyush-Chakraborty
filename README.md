@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Pratyush-Chakraborty
+- 👋 Hello everyone, I’m Pratyush Chakraborty, a pre-final year undergraduate student pursuing a B.Tech degree in Mechanical Engineering from Visvesvaraya National Institute of Technology.
 - 👀 I’m interested in 3D designing, coding and playing football
 - 🌱 I’m currently learning Fusion 60, and python
 - 💞️ I’m looking to collaborate on ...
